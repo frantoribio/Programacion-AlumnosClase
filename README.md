@@ -1,5 +1,5 @@
 # Programación - Alumnos Clase
-Ejemplo inicial de Programación Orientada a Objetos, con Java. Nuestra primeras clases, con usos, abusos, y algunos tests en 1DAM. Curso 2021-2022.
+Ejemplo inicial de Programación Orientada a Objetos, con Java. Nuestra primeras clases, con usos, abusos y algunos tests en 1DAM. Curso 2021-2022.
 
 [![Java](https://img.shields.io/badge/Code-Java-blue)](https://java.org/)
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-green)]()
